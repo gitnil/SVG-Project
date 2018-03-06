@@ -1,6 +1,6 @@
 SVG-Project
 ============
-This repository contains my original icon files and SVG sprite.
+This repository contains my original SVG icon files and SVG sprite.
 
 SVG Icon System Display for CSCI-UA.0380-​002 
 ---------------------------------------------------
